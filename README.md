@@ -1,4 +1,4 @@
-# .os-by-marko2155
+# Welcome to the .OS GitHub repo!
 A (kind of) CLI-based operating system made in .NET.
 
 It has only 3 commands, and you can post ideas of commands on the issues page and whoever i pick gets their issue closed and added into the program. 
