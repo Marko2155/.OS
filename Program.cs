@@ -13,23 +13,24 @@ namespace MyApp
 
                 if (input == "ver")
                 {
-                    Console.WriteLine(".OS v0.1");
+                    Console.WriteLine(".OS v1.0");
                     Console.WriteLine("Made by Marko2155");
-                }
-
-                if (input == "help")
+                } else if (input == "help")
                 {
                     Console.WriteLine("help - The command that shows this menu.");
                     Console.WriteLine("ver - Shows .OS version");
                     Console.WriteLine("shutdown - Shuts down the operating system");
-                } else
-                {
-                    Console.WriteLine("Command not recognised.");
-                }
-
-                if (input == "shutdown")
+                } else if (input == "shutdown")
                 {
                     Environment.Exit(1);
+                } else if (input == "echo") {
+                    string echo = Console.ReadLine();
+                    Console.WriteLine(echo);
+                } else if (input == "clear") {
+                    Console.Clear();
+               } else
+                {
+                    Console.WriteLine("Not found");
                 }
             }
         }
