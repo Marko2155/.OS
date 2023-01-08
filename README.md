@@ -11,3 +11,8 @@ You can type the commands listed in the wiki OR in the help command.
 # To-do list
 1: Make a command to let you make programs for .OS
 2: thats it.
+
+# Credits
+Marko21552: literally the whole program
+paul0warren: making the "echo" command a bit better
+drewnoakes: making the ascii library i use for the "asciigenerate" command (Figgle)
