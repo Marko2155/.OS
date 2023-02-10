@@ -17,5 +17,5 @@ Marko21552: literally the whole program
 paul0warren: making the "echo" command a bit better
 drewnoakes: making the ascii library i use for the "asciigenerate" command (Figgle)
 
-#Lost access
+# Lost access :(
 I currently have lost access to the code, but am using Jetbrains dotPeek to recover the code :)
